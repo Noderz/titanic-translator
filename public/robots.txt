@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /ROPEwalmartyelpTOKYOCOFFEENUT97skypeCOFFEEwalmartzip5USA2/http
+Disallow: /ROPEwalmartyelpTOKYOCOFFEENUT97skypeCOFFEEwalmartzip5USA2/http:
+Disallow: /ROPEwalmartyelpTOKYOCOFFEENUT97skypeCOFFEEwalmartzip5USA2/http:/
+Disallow: /ROPEwalmartyelpTOKYOCOFFEENUT97skypeCOFFEEwalmartzip5USA2/https
+Disallow: /ROPEwalmartyelpTOKYOCOFFEENUT97skypeCOFFEEwalmartzip5USA2/https:
+Disallow: /ROPEwalmartyelpTOKYOCOFFEENUT97skypeCOFFEEwalmartzip5USA2/https:/
